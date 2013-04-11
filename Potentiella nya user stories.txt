@@ -1,1 +1,11 @@
-Multi-monitor support
+-Jag vill som användare kunna välja vilken av datorns skärmar som visas på telefonen.
+
+-Jag vill som användare kunna interagera med den visade skrivbordsmiljön (mer avancerad)
+
+-Jag vill som användare kunna få mina uppgifter (IP, port) sparade.
+
+-Jag vill som användare kunna komma åt en hjälpmeny.
+
+-Jag vill som användare kunna "swipa" upp tangentbordet på telefonen.
+
+-Jag vill som användare kunna använda senare Android-versioners swipefunktion för att skriva.
